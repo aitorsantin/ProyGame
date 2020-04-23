@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Genero">
+        <item>Arcade</item>
+        <item>Plataformas</item>
+        <item>Disparos</item>
+        <item>Peleas</item>
+        <item>Aventuras</item>
+        <item>Terror</item>
+        <item>Rol</item>
+        <item>Puzzle</item>
+        <item>Estrategia</item>
+        <item>Simulación</item>
+        <item>Deportes</item>
+        <item>Carreras</item>
+        <item>MMORPG</item>
+        <item>RPG</item>
+    </string-array>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/buscar"
+        android:title="Buscar Consola" />
+    <item
+        android:id="@+id/agregar"
+        android:title="Agregar Consola" />
+    <item
+        android:id="@+id/modificar"
+        android:title="Modificar Consola" />
+    <item
+        android:id="@+id/borrar"
+        android:title="Borrar consola" />
+    <item
+        android:id="@+id/juego"
+        android:title="Videojuegos" />
+</menu>
